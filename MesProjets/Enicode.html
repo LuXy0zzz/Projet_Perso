@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jeu d'Énigme à Code</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Jeu d'Énigme à Code</h1>
+    <div id="setup">
+      <h2>Entrer les informations des joueurs</h2>
+      <div class="input-group">
+        <label for="player1-name">Pseudo du Joueur 1 :</label>
+        <input type="text" id="player1-name" maxlength="20">
+      </div>
+      <div class="input-group">
+        <label for="player1-code">Code du Joueur 1 :</label>
+        <input type="password" id="player1-code" maxlength="4">
+      </div>
+      <div class="input-group">
+        <label for="player2-name">Pseudo du Joueur 2 :</label>
+        <input type="text" id="player2-name" maxlength="20">
+      </div>
+      <div class="input-group">
+        <label for="player2-code">Code du Joueur 2 :</label>
+        <input type="password" id="player2-code" maxlength="4">
+      </div>
+      <button class="btn" onclick="startGame()">Commencer le jeu</button>
+    </div>
+    <div id="game" style="display:none;">
+      <h2>Tour de <span id="current-player">Joueur 1</span></h2>
+      <div class="input-group">
+        <label for="guess">Entrez votre essai :</label>
+        <input type="text" id="guess" maxlength="4">
+        <button class="btn" onclick="makeGuess()">Valider</button>
+      </div>
+      <div class="result">
+        <h3>Résultats :</h3>
+        <div id="results"></div>
+      </div>
+    </div>
+    <div id="winner" style="display:none;">
+      <h2>Félicitations !</h2>
+      <p id="winner-message"></p>
+      <div id="attempts-summary"></div>
+      <button class="btn" onclick="resetGame()">Rejouer</button>
+    </div>
+  </div>
+  <script src="game.js"></script>
+</body>
+</html>
