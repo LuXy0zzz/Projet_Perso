@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Projet_Plugin_RL\\Application_Dll1_v0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F5079E-5866-463C-9E13-A0A8E895E6A7}|Application_Dll1_v0.vcxproj|B:\\Projet_Plugin_RL\\Application_Dll1_v0\\Application_Dll1_v0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0F5079E-5866-463C-9E13-A0A8E895E6A7}|Application_Dll1_v0.vcxproj|solutionrelative:Application_Dll1_v0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F5079E-5866-463C-9E13-A0A8E895E6A7}|Application_Dll1_v0.vcxproj|B:\\Projet_Plugin_RL\\Application_Dll1_v0\\Application_Dll1_v0.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0F5079E-5866-463C-9E13-A0A8E895E6A7}|Application_Dll1_v0.vcxproj|solutionrelative:Application_Dll1_v0.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F5079E-5866-463C-9E13-A0A8E895E6A7}|Application_Dll1_v0.vcxproj|B:\\Projet_Plugin_RL\\Application_Dll1_v0\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0F5079E-5866-463C-9E13-A0A8E895E6A7}|Application_Dll1_v0.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application_Dll1_v0.cpp",
+              "DocumentMoniker": "B:\\Projet_Plugin_RL\\Application_Dll1_v0\\Application_Dll1_v0.cpp",
+              "RelativeDocumentMoniker": "Application_Dll1_v0.cpp",
+              "ToolTip": "B:\\Projet_Plugin_RL\\Application_Dll1_v0\\Application_Dll1_v0.cpp",
+              "RelativeToolTip": "Application_Dll1_v0.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T15:12:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application_Dll1_v0.h",
+              "DocumentMoniker": "B:\\Projet_Plugin_RL\\Application_Dll1_v0\\Application_Dll1_v0.h",
+              "RelativeDocumentMoniker": "Application_Dll1_v0.h",
+              "ToolTip": "B:\\Projet_Plugin_RL\\Application_Dll1_v0\\Application_Dll1_v0.h",
+              "RelativeToolTip": "Application_Dll1_v0.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-11T15:08:21.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "B:\\Projet_Plugin_RL\\Application_Dll1_v0\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "B:\\Projet_Plugin_RL\\Application_Dll1_v0\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T15:00:45.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
